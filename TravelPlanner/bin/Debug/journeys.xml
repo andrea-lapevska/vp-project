@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJourney xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Journey>
+    <StartingPoint>Skopje</StartingPoint>
+    <Destination>Paris</Destination>
+    <Accomodation>AirBnB</Accomodation>
+    <Budget>800</Budget>
+    <From>9/20/2020</From>
+    <To>9/26/2020</To>
+    <ToPack>
+      <string>passport</string>
+      <string>sunglasses</string>
+      <string>wallet</string>
+      <string>toothbrush</string>
+    </ToPack>
+    <ToVisit>
+      <string>Eiffel Tower</string>
+      <string>Louvre</string>
+      <string>Jardins de Luxembourg</string>
+    </ToVisit>
+  </Journey>
+  <Journey>
+    <StartingPoint>Berovo </StartingPoint>
+    <Destination>Ohrid</Destination>
+    <Accomodation>Kalina's place</Accomodation>
+    <Budget>120</Budget>
+    <From>8/10/2020</From>
+    <To>8/15/2020</To>
+    <ToPack>
+      <string>bathing suit</string>
+      <string>book</string>
+      <string>wallet</string>
+    </ToPack>
+    <ToVisit>
+      <string>Ohrid Lake</string>
+      <string>St. John Kaneo </string>
+    </ToVisit>
+  </Journey>
+  <Journey>
+    <StartingPoint>Skopje</StartingPoint>
+    <Destination>Ljubljana</Destination>
+    <Accomodation>B's appartment</Accomodation>
+    <Budget>400</Budget>
+    <From>11/10/2020</From>
+    <To>11/17/2020</To>
+    <ToPack>
+      <string>hat</string>
+      <string>hairbrush</string>
+    </ToPack>
+    <ToVisit />
+  </Journey>
+</ArrayOfJourney>

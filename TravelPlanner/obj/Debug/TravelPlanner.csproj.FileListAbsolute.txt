@@ -1,0 +1,13 @@
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\bin\Debug\TravelPlanner.exe.config
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\bin\Debug\TravelPlanner.exe
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\bin\Debug\TravelPlanner.pdb
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.Properties.Resources.resources
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.exe
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.pdb
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.Start.resources
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.NewJourney.resources
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.Travel.resources
+C:\Users\Andrea\source\repos\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.JourneysTable.resources
